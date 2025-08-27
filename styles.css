@@ -139,8 +139,8 @@ h2 {
 }
 .menu-acessibilidade{
     position: fixed;
-    top:2rem;
-    right:20px;
+    top: 2rem;
+    right: 20px;
     z-index: 1000;
 }
 .rotacao-botao{
@@ -149,7 +149,7 @@ h2 {
 }
 
 .opcoes-acessibilidade{
-    margin-top:10px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
 }
